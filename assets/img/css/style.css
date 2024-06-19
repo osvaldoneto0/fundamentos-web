@@ -1,0 +1,59 @@
+/*Estilos da página index.html*/
+.center{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+ #menu li{
+    display: inline;
+    padding: 20px;
+    background-color: rgb(56, 50, 136);
+    font-family: verdana;
+ }
+
+ #menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+ }
+
+ #menu li a:hover {
+    color: grey;
+ }
+
+ .p-30 {
+    padding: 40px;
+ }
+
+ .br-50 {
+    border-radius: 50%;
+ }
+ .wh {
+    width: 250px;
+    height: 250px;
+ }
+ body {
+    background-color: rgb(204, 199, 230);
+  }
+  h1 {
+    color: black;
+    text-align: center;
+  }
+   
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  #nome {
+    font-family: verdana;
+  }
+  
+
+
+/*Estilos da página contato.html*/
